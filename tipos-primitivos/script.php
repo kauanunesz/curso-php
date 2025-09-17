@@ -20,4 +20,5 @@
     // Nesse caso, quero colocar "" dentro de "", então coloco contra-barra(\) para dizer ao navegador, que são aspas dentro das aspas sem problemas, não um erro
 
     // Sequências de escape, pesquisar depois
+    // 
 ?>
